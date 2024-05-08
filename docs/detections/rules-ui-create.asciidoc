@@ -39,7 +39,7 @@ To create or edit {ml} rules, you must have the https://www.elastic.co/subscript
 role, and the selected {ml} job must be running for the rule to function correctly.
 ==============
 . Go to *Rules* -> *Detection rules (SIEM)* -> *Create new rule*. The *Create new rule* page displays.
-. To create a rule based on a {ml} anomaly threshold, select *Machine Learning*,
+. To create a rule based on a {ml} anomaly threshold, click *Machine Learning*,
 then select:
 .. The required {ml} jobs. 
 +
