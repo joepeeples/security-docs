@@ -11,7 +11,7 @@ Documentation Manager: Janeen Roberts (Github: `@jmikell821`)
 
 If you're an Elastic employee, you can open an issue using the appropriate [template](https://github.com/elastic/security-docs/issues/new/choose). To contribute directly to Elastic Security documentation:
 
-1. Please fork and clone the `security-docs` repo. 
+1. Fork and clone the `security-docs` repo. 
 1. Check out the `main` branch and fetch the latest changes. 
 1. Check out a new branch and make your changes. 
 1. Save your changes and open a pull request. 
